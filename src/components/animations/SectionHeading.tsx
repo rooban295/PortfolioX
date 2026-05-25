@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
-import { easeOutExpo, revealTransition } from "@/lib/motion";
+import { revealTransition } from "@/lib/motion";
 
 const headingViewport = { once: true, amount: 0.2, margin: "0px 0px -60px 0px" } as const;
 

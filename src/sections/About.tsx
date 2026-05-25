@@ -81,7 +81,7 @@ export default function About() {
           
           <FadeUp delay={0.4}>
             <p className="text-gray-400 text-lg leading-relaxed">
-              My approach focuses on clean code, seamless user interactions, and performance optimization. Whether it's crafting intricate GSAP animations or architecting complex databases, I bring ideas to life on the web.
+              My approach focuses on clean code, seamless user interactions, and performance optimization. Whether it&apos;s crafting intricate GSAP animations or architecting complex databases, I bring ideas to life on the web.
             </p>
           </FadeUp>
 

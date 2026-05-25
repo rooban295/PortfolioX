@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import { cn } from "@/lib/utils";
-import { easeOutExpo, revealTransition, viewportReveal } from "@/lib/motion";
+import { revealTransition, viewportReveal } from "@/lib/motion";
 
 export default function FadeUp({
   children,
